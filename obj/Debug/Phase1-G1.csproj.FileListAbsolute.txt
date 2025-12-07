@@ -1,0 +1,34 @@
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.exe.config
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.exe
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.pdb
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.AssemblyReference.cache
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Dhafer_Form.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Form1.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.InstructionsForm.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Properties.Resources.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.GenerateResource.cache
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.CoreCompileInputs.cache
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.exe
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.pdb
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.exe.config
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Ali_Form.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Alwaleed_form.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Tamim_form.resources
+C:\Users\dafor\OneDrive\سطح المكتب\WindowsFormsApp4\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.frmManipulation.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.AssemblyReference.cache
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.exe.config
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Ali_Form.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Alwaleed_form.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Dhafer_Form.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Form1.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.frmManipulation.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.InstructionsForm.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Properties.Resources.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1_G1.Tamim_form.resources
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.GenerateResource.cache
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.csproj.CoreCompileInputs.cache
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.exe
+D:\Phase1-G1\Phase1-G1\obj\Debug\Phase1-G1.pdb
+D:\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.exe.config
+D:\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.exe
+D:\Phase1-G1\Phase1-G1\bin\Debug\Phase1-G1.pdb
